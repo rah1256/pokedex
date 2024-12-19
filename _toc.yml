@@ -1,5 +1,9 @@
 format: jb-book
 root: content/index
-chapters:
-  - file: content/documentation
-  - file: content/pokemonweakness
+parts:
+  - caption: Code
+    chapters:
+    - file: content/pokemonweakness
+  - caption: Code
+    chapters:
+    - file: content/documentation
