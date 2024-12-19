@@ -1,1 +1,9 @@
-
+title: "Pokedex Analysis"
+author: "Rah1256"
+logo: ""
+repository:
+  url: https://github.com/rah1256/pokedex
+  path_to_book: ""
+html:
+  favicon: ""
+  theme: "sphinx_book_theme"
