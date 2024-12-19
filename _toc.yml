@@ -1,1 +1,5 @@
-
+format: jb-book
+root: content/index
+chapters:
+  - file: content/documentation
+  - file: content/pokemonweakness
